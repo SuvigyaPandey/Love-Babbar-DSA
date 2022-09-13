@@ -1,4 +1,4 @@
-#delete middle element of stack
+//delete middle element of stack
 
 void solve(stack<int>&inputStack,int count,int size){
     
